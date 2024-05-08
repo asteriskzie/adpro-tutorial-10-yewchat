@@ -1,9 +1,18 @@
 # YewChat - Modified By Ester Gracia (2206041991) 💬
+> Source code for [Let’s Build a Websocket Chat Project With Rust and Yew 0.19 🦀](#)
+
+---
+## Adpro Reflecion 
 
 Screenshot of YewChat: 
 ![alt text](img/image.png)
 
-> Source code for [Let’s Build a Websocket Chat Project With Rust and Yew 0.19 🦀](#)
+After a touch of creativity: 
+![alt text](img/image-creative.png)
+Initially the profile picture is broken. Turns out the API endpoints has changed. I read the API documentation and managed to fix it, plus I get to choose the art style I like the most. 
+
+---
+
 
 ## Install
 
