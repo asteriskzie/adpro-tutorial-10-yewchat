@@ -1,4 +1,7 @@
-# YewChat 💬
+# YewChat - Modified By Ester Gracia (2206041991) 💬
+
+Screenshot of YewChat: 
+![alt text](img/image.png)
 
 > Source code for [Let’s Build a Websocket Chat Project With Rust and Yew 0.19 🦀](#)
 
